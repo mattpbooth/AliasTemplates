@@ -7,7 +7,7 @@ I'd stumbled upon the lack of support for template typedefs during a recent proj
 Problem with the STL is that not everyone is intimitely familiar with its workings and it can seem a bit intimidating, so I thought I would try and put a gaming spin on things.
 
 Spoilers!
---------
+---------
 Template Typedef workarounds are dead, there's a better approach in C++ 11.
 
 Project Setup
