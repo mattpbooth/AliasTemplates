@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="ispell.h" />
+    <ClInclude Include="spelltypes.h" />
+    <ClInclude Include="magicmissilespell.h" />
+    <ClInclude Include="healspell.h" />
+    <ClInclude Include="pool.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="wizard.cpp" />
+    <ClCompile Include="wizard.h" />
+    <ClCompile Include="magicmissilespell.cpp" />
+    <ClCompile Include="healspell.cpp" />
+    <ClCompile Include="pool.cpp" />
+  </ItemGroup>
+</Project>
