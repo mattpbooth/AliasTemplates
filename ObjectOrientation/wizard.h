@@ -5,7 +5,7 @@
 class Wizard final
 {
 public:
-	Wizard(int health);
+	explicit Wizard(int health);
 
 	void damage(int damage);
 
