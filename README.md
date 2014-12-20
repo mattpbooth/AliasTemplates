@@ -23,4 +23,4 @@ License
 
 MIT
 
-[blog]:http://wp.me/p4Q2fg-2
+[blog]:http://www.gamedevblog.co.uk/how-alias-templates-saved-my-sanity/
